@@ -13,5 +13,5 @@ Find video lessons series here:
 https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84
 
 
-To do: Monads
-Would like to add to this list flatMap that helps explain monads
+To do: Monads  
+Would like to add to this list flatMap, that helps explain monads
